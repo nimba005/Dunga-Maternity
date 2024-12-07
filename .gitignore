@@ -1,0 +1,22 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.css.map
+*.scssc
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore environment files
+.env
+
+# Ignore node_modules directory
+node_modules/
+node_modules
